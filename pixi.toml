@@ -1,4 +1,5 @@
 [workspace]
+requires-pixi = ">=0.82.1"
 authors = ["Thomas A Caswell <tcaswell@bnl.gov>"]
 channels = ["conda-forge"]
 name = "PDFstream"
